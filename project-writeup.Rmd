@@ -25,7 +25,6 @@ Steps to develope a Model:
 
 8. It is observed the random forest based model working with 100% accuracy for the given testing data.
 
-
 ```{r}
 # setting working directory
 setwd("E:/Course-era-Machine-Learning/prac-ML")
